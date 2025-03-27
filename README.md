@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @falcon311-aman
+- 👋 Hi, I’m @sailor-aman
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning c and c++ language 
 - 💞️ I’m looking to collaborate on ...
